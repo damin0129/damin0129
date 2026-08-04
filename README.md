@@ -1,6 +1,8 @@
 # KIM DA MIN <img src="https://img.shields.io/badge/goat0129@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/goat0129@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-
+Hi, I’m Damin Kim.
+I’m a M.S. student in **Immersive Media Engineering** at Sungkyunkwan University (SKKU), Seoul, Republic of Korea, and a member of the **[SWLab](https://swlab.skku.edu/swlab)** led by Prof. Moohong Min.<br/>
+I have interest in **LLM jailbreak**, **AI safety**, and **EdTech**.
 
 ## 🏫 School 
 Sungkyunkwan University
