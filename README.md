@@ -40,7 +40,7 @@ I build **LLM-powered applications and AI automation workflows**, while conducti
 - Combined evolutionary orchestration with multi-agent debate
 - Improved robustness of LLM-based PII detection
 
-[![Paper](https://img.shields.io/badge/Paper-Springer-success?style=flat-square)](https://link.springer.com/book/10.1007/978-981-92-1947-6?page=3)
+[![Paper](https://img.shields.io/badge/Paper-Springer-success?style=flat-square)](https://link.springer.com/chapter/10.1007/978-981-92-1947-6_42)
 
 ---
 
@@ -67,7 +67,7 @@ Personal automation tool for streamlining literature review.
 - Connected detection results with the national reporting process
 - Resulted in a Korean patent application
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/skku-swlab/illegal_gambling_detector)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github)](https://github.com/skku-swlab/illegal_gambling-detector)
 
 ---
 
