@@ -58,7 +58,7 @@ Personal automation tool for streamlining literature review.
 
 ---
 
-## 🎰 AI-based Illegal Gambling Detection Platform
+## 🎰 AI-based Illegal Gambling Detection Platform "Gambling-X"
 
 **SKKU Co-Deep Learning 2025 · 🏆 Best Project Award**
 
